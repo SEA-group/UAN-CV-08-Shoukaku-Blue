@@ -1,116 +1,238 @@
 <JD083_Director_Type_94_with_radar.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Director	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Director_Type_95_Mod1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Director_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_XM410_Skin_Director	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Grid	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.177748 -0.040064 -0.094539	</min>
 		<max>	0.179171 0.264647 0.087342	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Director	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	Director_Type_95_Mod1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Director_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM410_Skin_Director	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Grid	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Director	</node>
-		<geometry>
-			<vertices>	DirectorShape.vertices	</vertices>
-			<primitive>	DirectorShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Director_Type_95_Mod1	</node>
-		<geometry>
-			<vertices>	Director_Type_95_Mod1Shape.vertices	</vertices>
-			<primitive>	Director_Type_95_Mod1Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_Director1	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Director_wire	</node>
-		<geometry>
-			<vertices>	Director_wireShape.vertices	</vertices>
-			<primitive>	Director_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPWIREX_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Grid	</node>
-		<geometry>
-			<vertices>	GridShape.vertices	</vertices>
-			<primitive>	GridShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	GRID_Misc	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/C010_Grid_8_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	DirectorShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_Type_95_Mod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_Type_95_Mod1	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director1	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	GridShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Grid	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_Type_95_Mod1_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_Type_95_Mod1	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_Director1	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD022_Director_Type_95_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Grid_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Grid	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Director_wire_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Director_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPWIREX_PBS_Director	</identifier>
+				<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	3.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	DirectorShape	</renderSet>
+				<renderSet>	Director_Type_95_Mod1Shape	</renderSet>
+				<renderSet>	Director_wireShape	</renderSet>
+				<renderSet>	GridShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	8.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Director_lod1Shape	</renderSet>
+				<renderSet>	Director_Type_95_Mod1_lodShape1	</renderSet>
+				<renderSet>	Director_wire_lod1Shape	</renderSet>
+				<renderSet>	Grid_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	25.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Director_lod2Shape	</renderSet>
+				<renderSet>	Director_wire_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	100.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Director_lod3Shape	</renderSet>
+				<renderSet>	Director_wire_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </JD083_Director_Type_94_with_radar.visual>
